@@ -37,6 +37,6 @@ For example, to analyze your entire desktop, you might run: python analyse-files
 Feel free to fork the repository and submit pull requests with enhancements or fixes.
 
 ## License
-[MIT License](LICENSE.md) or specify another license if applicable.
+[MIT License](LICENSE) or specify another license if applicable.
 
 
