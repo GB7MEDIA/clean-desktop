@@ -1,0 +1,5 @@
+# Ignore log directory
+logs/
+
+# Ignore log files with specific pattern
+log-*.txt
